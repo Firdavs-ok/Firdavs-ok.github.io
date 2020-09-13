@@ -6,6 +6,8 @@ body {
 
 header {
     text-align: center;
+    header h1 {
+    font-size: 9vw;}
 }
 nav {
     
@@ -102,6 +104,5 @@ footer p {
     nav, aside, .menu, .left, .art, article img {
         width: 100%;
     }
-    header h1 {
-    font-size: 9vw;}
+    
 }
