@@ -1,6 +1,6 @@
 <?php
     if (isset($_POST[submit])) {
-        echo $_POST['subject'];
+        echo $_POST['subject']
     }
 
 ?>
